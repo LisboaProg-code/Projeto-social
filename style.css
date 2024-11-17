@@ -34,13 +34,13 @@ body{
     border-radius: 50%;
     display: flex;
     margin: auto;
-    transform: translate(43vw, 7vw);
+    transform: translate(43vw, 3vw);
     justify-content: right;
     padding: 20px;
 }
 
 .botao:hover{
-    transform: translate(42vw, 6vw);
+    transform: translate(42vw, 2vw);
     transition: 2s;
 }
 
