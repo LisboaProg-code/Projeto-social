@@ -36,7 +36,7 @@ body{
     margin: auto;
     transform: translate(43vw, 7vw);
     justify-content: right;
-    padding: 10px;
+    padding: 20px;
 }
 
 .botao:hover{
