@@ -40,7 +40,7 @@ body{
 }
 
 .botao:hover{
-    transform: translate(41vw, 6vw);
+    transform: translate(42vw, 6vw);
     transition: 2s;
 }
 
