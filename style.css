@@ -24,7 +24,7 @@ body{
     height: 627px;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
+    transform: translate(-60%, -50%);
 }
 
 
@@ -36,7 +36,7 @@ body{
     margin: auto;
     transform: translate(43vw, 3vw);
     justify-content: right;
-    padding: 20px;
+    padding: 10px;
 }
 
 .botao:hover{
