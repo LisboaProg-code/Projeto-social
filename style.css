@@ -27,21 +27,29 @@ body{
     transform: translate(-60%, -50%);
 }
 
+.teste{
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: end;
+}
 
 .botao {
     width: 50px;
     height: 50px;
     border-radius: 50%;
-    display: flex;
-    margin: auto;
-    transform: translate(43vw, 3vw);
-    justify-content: right;
-    padding: 10px;
+    margin: 10px;
+}
+
+.botao img{
+    display: block;
 }
 
 .botao:hover{
-    transform: translate(42vw, 2vw);
-    transition: 2s;
+    transform: translate(-2px, -2px);
+    border: 2px solid white;
+    box-sizing: border-box;
+    transition: transform .5s, border 1s;
 }
 
 .scroll_escondido{
