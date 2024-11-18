@@ -50,7 +50,7 @@ body{
     transform: translate(-2px, -2px);
     border: 2px solid white;
     box-sizing: border-box;
-    box-shadow: 5px 5px 10px rgba(0,0,0,2));
+    box-shadow: 5px 5px 10px rgba(0,0,0,2);
     transition: transform .5s, border 1s;
 }
 
